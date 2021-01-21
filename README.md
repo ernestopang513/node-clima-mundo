@@ -7,3 +7,9 @@ Recordar los paquetes de node con:
 ```
 npm install
 ```
+
+## Ejemplo
+
+```
+node app -d 'Tokio'
+```
